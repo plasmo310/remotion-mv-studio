@@ -1,0 +1,4259 @@
+{
+  "model": "large-v3",
+  "language": "en",
+  "duration": 127.24,
+  "offset": 0.0,
+  "match_rate": 0.8172,
+  "lines": [
+    {
+      "index": 0,
+      "lineno": 1,
+      "text": "Looky looky looky",
+      "start": 1.87,
+      "end": 2.85,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 1.87,
+          "end": 2.07
+        },
+        {
+          "word": "o",
+          "start": 1.87,
+          "end": 2.07
+        },
+        {
+          "word": "o",
+          "start": 1.87,
+          "end": 2.07
+        },
+        {
+          "word": "k",
+          "start": 1.87,
+          "end": 2.07
+        },
+        {
+          "word": "y",
+          "start": 1.87,
+          "end": 2.07
+        },
+        {
+          "word": "l",
+          "start": 2.07,
+          "end": 2.45
+        },
+        {
+          "word": "o",
+          "start": 2.07,
+          "end": 2.45
+        },
+        {
+          "word": "o",
+          "start": 2.07,
+          "end": 2.45
+        },
+        {
+          "word": "k",
+          "start": 2.07,
+          "end": 2.45
+        },
+        {
+          "word": "y",
+          "start": 2.07,
+          "end": 2.45
+        },
+        {
+          "word": "l",
+          "start": 2.45,
+          "end": 2.85
+        },
+        {
+          "word": "o",
+          "start": 2.45,
+          "end": 2.85
+        },
+        {
+          "word": "o",
+          "start": 2.45,
+          "end": 2.85
+        },
+        {
+          "word": "k",
+          "start": 2.45,
+          "end": 2.85
+        },
+        {
+          "word": "y",
+          "start": 2.45,
+          "end": 2.85
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "lineno": 2,
+      "text": "Looky looky",
+      "start": 2.85,
+      "end": 4.19,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 2.85,
+          "end": 3.53
+        },
+        {
+          "word": "o",
+          "start": 2.85,
+          "end": 3.53
+        },
+        {
+          "word": "o",
+          "start": 2.85,
+          "end": 3.53
+        },
+        {
+          "word": "k",
+          "start": 2.85,
+          "end": 3.53
+        },
+        {
+          "word": "y",
+          "start": 2.85,
+          "end": 3.45
+        },
+        {
+          "word": "l",
+          "start": 3.53,
+          "end": 4.19
+        },
+        {
+          "word": "o",
+          "start": 3.53,
+          "end": 4.19
+        },
+        {
+          "word": "o",
+          "start": 3.53,
+          "end": 4.19
+        },
+        {
+          "word": "k",
+          "start": 3.53,
+          "end": 4.19
+        },
+        {
+          "word": "y",
+          "start": 3.53,
+          "end": 4.13
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "lineno": 3,
+      "text": "Looky looky, watchin’ meerkats!",
+      "start": 4.19,
+      "end": 6.85,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 4.19,
+          "end": 4.99
+        },
+        {
+          "word": "o",
+          "start": 4.19,
+          "end": 4.99
+        },
+        {
+          "word": "o",
+          "start": 4.19,
+          "end": 4.99
+        },
+        {
+          "word": "k",
+          "start": 4.19,
+          "end": 4.99
+        },
+        {
+          "word": "y",
+          "start": 4.19,
+          "end": 4.79
+        },
+        {
+          "word": "l",
+          "start": 4.99,
+          "end": 5.35
+        },
+        {
+          "word": "o",
+          "start": 4.99,
+          "end": 5.35
+        },
+        {
+          "word": "o",
+          "start": 4.99,
+          "end": 5.35
+        },
+        {
+          "word": "k",
+          "start": 4.99,
+          "end": 5.35
+        },
+        {
+          "word": "y",
+          "start": 4.99,
+          "end": 5.35
+        },
+        {
+          "word": ",",
+          "start": 4.99,
+          "end": 5.35
+        },
+        {
+          "word": "w",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "a",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "t",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "c",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "h",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "i",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "n",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "’",
+          "start": 5.35,
+          "end": 5.81
+        },
+        {
+          "word": "m",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "e",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "e",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "r",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "k",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "a",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "t",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "s",
+          "start": 5.81,
+          "end": 6.85
+        },
+        {
+          "word": "!",
+          "start": 5.81,
+          "end": 6.85
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "lineno": 5,
+      "text": "Poppin’ up from a little hole",
+      "start": 12.6,
+      "end": 14.9,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "P",
+          "start": 12.6,
+          "end": 12.7
+        },
+        {
+          "word": "o",
+          "start": 12.7,
+          "end": 12.8
+        },
+        {
+          "word": "p",
+          "start": 12.8,
+          "end": 12.9
+        },
+        {
+          "word": "p",
+          "start": 12.9,
+          "end": 13.0
+        },
+        {
+          "word": "i",
+          "start": 13.0,
+          "end": 13.1
+        },
+        {
+          "word": "n",
+          "start": 13.1,
+          "end": 13.2
+        },
+        {
+          "word": "’",
+          "start": 13.1,
+          "end": 13.2
+        },
+        {
+          "word": "u",
+          "start": 13.2,
+          "end": 13.3
+        },
+        {
+          "word": "p",
+          "start": 13.3,
+          "end": 13.4
+        },
+        {
+          "word": "f",
+          "start": 13.4,
+          "end": 13.5
+        },
+        {
+          "word": "r",
+          "start": 13.5,
+          "end": 13.6
+        },
+        {
+          "word": "o",
+          "start": 13.6,
+          "end": 13.7
+        },
+        {
+          "word": "m",
+          "start": 13.7,
+          "end": 13.8
+        },
+        {
+          "word": "a",
+          "start": 13.8,
+          "end": 13.9
+        },
+        {
+          "word": "l",
+          "start": 13.9,
+          "end": 14.0
+        },
+        {
+          "word": "i",
+          "start": 14.0,
+          "end": 14.1
+        },
+        {
+          "word": "t",
+          "start": 14.1,
+          "end": 14.2
+        },
+        {
+          "word": "t",
+          "start": 14.2,
+          "end": 14.3
+        },
+        {
+          "word": "l",
+          "start": 14.3,
+          "end": 14.4
+        },
+        {
+          "word": "e",
+          "start": 14.4,
+          "end": 14.5
+        },
+        {
+          "word": "h",
+          "start": 14.5,
+          "end": 14.6
+        },
+        {
+          "word": "o",
+          "start": 14.6,
+          "end": 14.7
+        },
+        {
+          "word": "l",
+          "start": 14.7,
+          "end": 14.8
+        },
+        {
+          "word": "e",
+          "start": 14.8,
+          "end": 14.9
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "lineno": 6,
+      "text": "Today it’s my turn to keep watch",
+      "start": 14.94,
+      "end": 17.84,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "T",
+          "start": 14.94,
+          "end": 15.66
+        },
+        {
+          "word": "o",
+          "start": 14.94,
+          "end": 15.66
+        },
+        {
+          "word": "d",
+          "start": 14.94,
+          "end": 15.66
+        },
+        {
+          "word": "a",
+          "start": 14.94,
+          "end": 15.66
+        },
+        {
+          "word": "y",
+          "start": 14.94,
+          "end": 15.66
+        },
+        {
+          "word": "i",
+          "start": 15.66,
+          "end": 15.98
+        },
+        {
+          "word": "t",
+          "start": 15.66,
+          "end": 15.98
+        },
+        {
+          "word": "’",
+          "start": 15.66,
+          "end": 15.98
+        },
+        {
+          "word": "s",
+          "start": 15.66,
+          "end": 15.98
+        },
+        {
+          "word": "m",
+          "start": 15.98,
+          "end": 16.06
+        },
+        {
+          "word": "y",
+          "start": 15.98,
+          "end": 16.06
+        },
+        {
+          "word": "t",
+          "start": 16.06,
+          "end": 16.62
+        },
+        {
+          "word": "u",
+          "start": 16.06,
+          "end": 16.62
+        },
+        {
+          "word": "r",
+          "start": 16.06,
+          "end": 16.62
+        },
+        {
+          "word": "n",
+          "start": 16.06,
+          "end": 16.62
+        },
+        {
+          "word": "t",
+          "start": 16.62,
+          "end": 17.02
+        },
+        {
+          "word": "o",
+          "start": 16.62,
+          "end": 17.02
+        },
+        {
+          "word": "k",
+          "start": 17.02,
+          "end": 17.42
+        },
+        {
+          "word": "e",
+          "start": 17.02,
+          "end": 17.42
+        },
+        {
+          "word": "e",
+          "start": 17.02,
+          "end": 17.42
+        },
+        {
+          "word": "p",
+          "start": 17.02,
+          "end": 17.42
+        },
+        {
+          "word": "w",
+          "start": 17.42,
+          "end": 17.84
+        },
+        {
+          "word": "a",
+          "start": 17.42,
+          "end": 17.84
+        },
+        {
+          "word": "t",
+          "start": 17.42,
+          "end": 17.84
+        },
+        {
+          "word": "c",
+          "start": 17.42,
+          "end": 17.84
+        },
+        {
+          "word": "h",
+          "start": 17.42,
+          "end": 17.84
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "lineno": 7,
+      "text": "Everything okay over there?",
+      "start": 17.84,
+      "end": 20.78,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "E",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "v",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "e",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "r",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "y",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "t",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "h",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "i",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "n",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "g",
+          "start": 17.84,
+          "end": 18.86
+        },
+        {
+          "word": "o",
+          "start": 18.86,
+          "end": 19.28
+        },
+        {
+          "word": "k",
+          "start": 18.86,
+          "end": 19.28
+        },
+        {
+          "word": "a",
+          "start": 18.86,
+          "end": 19.28
+        },
+        {
+          "word": "y",
+          "start": 18.86,
+          "end": 19.28
+        },
+        {
+          "word": "o",
+          "start": 19.28,
+          "end": 20.2
+        },
+        {
+          "word": "v",
+          "start": 19.28,
+          "end": 20.2
+        },
+        {
+          "word": "e",
+          "start": 19.28,
+          "end": 20.2
+        },
+        {
+          "word": "r",
+          "start": 19.28,
+          "end": 20.2
+        },
+        {
+          "word": "t",
+          "start": 20.2,
+          "end": 20.78
+        },
+        {
+          "word": "h",
+          "start": 20.2,
+          "end": 20.78
+        },
+        {
+          "word": "e",
+          "start": 20.2,
+          "end": 20.78
+        },
+        {
+          "word": "r",
+          "start": 20.2,
+          "end": 20.78
+        },
+        {
+          "word": "e",
+          "start": 20.2,
+          "end": 20.78
+        },
+        {
+          "word": "?",
+          "start": 20.2,
+          "end": 20.78
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "lineno": 8,
+      "text": "Leave it to me, you keep diggin’ on",
+      "start": 20.78,
+      "end": 23.68,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 20.78,
+          "end": 21.3
+        },
+        {
+          "word": "e",
+          "start": 20.78,
+          "end": 21.3
+        },
+        {
+          "word": "a",
+          "start": 20.78,
+          "end": 21.3
+        },
+        {
+          "word": "v",
+          "start": 20.78,
+          "end": 21.3
+        },
+        {
+          "word": "e",
+          "start": 20.78,
+          "end": 21.3
+        },
+        {
+          "word": "i",
+          "start": 21.3,
+          "end": 21.46
+        },
+        {
+          "word": "t",
+          "start": 21.3,
+          "end": 21.46
+        },
+        {
+          "word": "t",
+          "start": 21.46,
+          "end": 21.64
+        },
+        {
+          "word": "o",
+          "start": 21.46,
+          "end": 21.64
+        },
+        {
+          "word": "m",
+          "start": 21.64,
+          "end": 22.16
+        },
+        {
+          "word": "e",
+          "start": 21.64,
+          "end": 22.16
+        },
+        {
+          "word": ",",
+          "start": 21.64,
+          "end": 22.16
+        },
+        {
+          "word": "y",
+          "start": 22.16,
+          "end": 22.186666666666667
+        },
+        {
+          "word": "o",
+          "start": 22.186666666666667,
+          "end": 22.21333333333333
+        },
+        {
+          "word": "u",
+          "start": 22.21333333333333,
+          "end": 22.24
+        },
+        {
+          "word": "k",
+          "start": 22.24,
+          "end": 22.58
+        },
+        {
+          "word": "e",
+          "start": 22.24,
+          "end": 22.58
+        },
+        {
+          "word": "e",
+          "start": 22.24,
+          "end": 22.58
+        },
+        {
+          "word": "p",
+          "start": 22.24,
+          "end": 22.58
+        },
+        {
+          "word": "d",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "i",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "g",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "g",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "i",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "n",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "’",
+          "start": 22.58,
+          "end": 23.36
+        },
+        {
+          "word": "o",
+          "start": 23.36,
+          "end": 23.68
+        },
+        {
+          "word": "n",
+          "start": 23.36,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "lineno": 10,
+      "text": "Right! Left! All clear!",
+      "start": 23.68,
+      "end": 25.66,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "R",
+          "start": 23.68,
+          "end": 24.42
+        },
+        {
+          "word": "i",
+          "start": 23.68,
+          "end": 24.42
+        },
+        {
+          "word": "g",
+          "start": 23.68,
+          "end": 24.42
+        },
+        {
+          "word": "h",
+          "start": 23.68,
+          "end": 24.42
+        },
+        {
+          "word": "t",
+          "start": 23.68,
+          "end": 24.42
+        },
+        {
+          "word": "!",
+          "start": 23.68,
+          "end": 24.42
+        },
+        {
+          "word": "L",
+          "start": 24.52,
+          "end": 25.02
+        },
+        {
+          "word": "e",
+          "start": 24.52,
+          "end": 25.02
+        },
+        {
+          "word": "f",
+          "start": 24.52,
+          "end": 25.02
+        },
+        {
+          "word": "t",
+          "start": 24.52,
+          "end": 25.02
+        },
+        {
+          "word": "!",
+          "start": 24.52,
+          "end": 25.02
+        },
+        {
+          "word": "A",
+          "start": 25.06,
+          "end": 25.28
+        },
+        {
+          "word": "l",
+          "start": 25.06,
+          "end": 25.28
+        },
+        {
+          "word": "l",
+          "start": 25.06,
+          "end": 25.28
+        },
+        {
+          "word": "c",
+          "start": 25.28,
+          "end": 25.66
+        },
+        {
+          "word": "l",
+          "start": 25.28,
+          "end": 25.66
+        },
+        {
+          "word": "e",
+          "start": 25.28,
+          "end": 25.66
+        },
+        {
+          "word": "a",
+          "start": 25.28,
+          "end": 25.66
+        },
+        {
+          "word": "r",
+          "start": 25.28,
+          "end": 25.66
+        },
+        {
+          "word": "!",
+          "start": 25.28,
+          "end": 25.66
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "lineno": 11,
+      "text": "No danger anywhere!",
+      "start": 25.66,
+      "end": 26.98,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "N",
+          "start": 25.66,
+          "end": 26.1
+        },
+        {
+          "word": "o",
+          "start": 25.66,
+          "end": 26.1
+        },
+        {
+          "word": "d",
+          "start": 26.1,
+          "end": 26.44
+        },
+        {
+          "word": "a",
+          "start": 26.1,
+          "end": 26.44
+        },
+        {
+          "word": "n",
+          "start": 26.1,
+          "end": 26.44
+        },
+        {
+          "word": "g",
+          "start": 26.1,
+          "end": 26.44
+        },
+        {
+          "word": "e",
+          "start": 26.1,
+          "end": 26.44
+        },
+        {
+          "word": "r",
+          "start": 26.1,
+          "end": 26.44
+        },
+        {
+          "word": "a",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "n",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "y",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "w",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "h",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "e",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "r",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "e",
+          "start": 26.44,
+          "end": 26.98
+        },
+        {
+          "word": "!",
+          "start": 26.44,
+          "end": 26.98
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "lineno": 12,
+      "text": "But we can’t let our guard down",
+      "start": 26.98,
+      "end": 29.24,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "B",
+          "start": 26.98,
+          "end": 27.62
+        },
+        {
+          "word": "u",
+          "start": 26.98,
+          "end": 27.62
+        },
+        {
+          "word": "t",
+          "start": 26.98,
+          "end": 27.62
+        },
+        {
+          "word": "w",
+          "start": 27.62,
+          "end": 27.82
+        },
+        {
+          "word": "e",
+          "start": 27.62,
+          "end": 27.82
+        },
+        {
+          "word": "c",
+          "start": 27.82,
+          "end": 28.4
+        },
+        {
+          "word": "a",
+          "start": 27.82,
+          "end": 28.4
+        },
+        {
+          "word": "n",
+          "start": 27.82,
+          "end": 28.4
+        },
+        {
+          "word": "’",
+          "start": 27.82,
+          "end": 28.4
+        },
+        {
+          "word": "t",
+          "start": 27.82,
+          "end": 28.4
+        },
+        {
+          "word": "l",
+          "start": 28.4,
+          "end": 28.62
+        },
+        {
+          "word": "e",
+          "start": 28.4,
+          "end": 28.62
+        },
+        {
+          "word": "t",
+          "start": 28.4,
+          "end": 28.62
+        },
+        {
+          "word": "o",
+          "start": 28.62,
+          "end": 28.720000000000002
+        },
+        {
+          "word": "u",
+          "start": 28.720000000000002,
+          "end": 28.82
+        },
+        {
+          "word": "r",
+          "start": 28.82,
+          "end": 28.92
+        },
+        {
+          "word": "g",
+          "start": 28.92,
+          "end": 29.05
+        },
+        {
+          "word": "u",
+          "start": 28.92,
+          "end": 29.05
+        },
+        {
+          "word": "a",
+          "start": 28.92,
+          "end": 29.05
+        },
+        {
+          "word": "r",
+          "start": 28.92,
+          "end": 29.05
+        },
+        {
+          "word": "d",
+          "start": 28.92,
+          "end": 29.05
+        },
+        {
+          "word": "d",
+          "start": 29.05,
+          "end": 29.2
+        },
+        {
+          "word": "o",
+          "start": 29.05,
+          "end": 29.2
+        },
+        {
+          "word": "w",
+          "start": 29.05,
+          "end": 29.2
+        },
+        {
+          "word": "n",
+          "start": 29.05,
+          "end": 29.2
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "lineno": 13,
+      "text": "Everybody, come on!",
+      "start": 29.2,
+      "end": 30.78,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "E",
+          "start": 29.2,
+          "end": 29.249
+        },
+        {
+          "word": "v",
+          "start": 29.249,
+          "end": 29.359
+        },
+        {
+          "word": "e",
+          "start": 29.359,
+          "end": 29.468
+        },
+        {
+          "word": "r",
+          "start": 29.468,
+          "end": 29.577
+        },
+        {
+          "word": "y",
+          "start": 29.577,
+          "end": 29.687
+        },
+        {
+          "word": "b",
+          "start": 29.687,
+          "end": 29.796
+        },
+        {
+          "word": "o",
+          "start": 29.796,
+          "end": 29.905
+        },
+        {
+          "word": "d",
+          "start": 29.905,
+          "end": 30.015
+        },
+        {
+          "word": "y",
+          "start": 30.015,
+          "end": 30.124
+        },
+        {
+          "word": ",",
+          "start": 30.015,
+          "end": 30.124
+        },
+        {
+          "word": "c",
+          "start": 30.124,
+          "end": 30.233
+        },
+        {
+          "word": "o",
+          "start": 30.233,
+          "end": 30.343
+        },
+        {
+          "word": "m",
+          "start": 30.343,
+          "end": 30.452
+        },
+        {
+          "word": "e",
+          "start": 30.452,
+          "end": 30.561
+        },
+        {
+          "word": "o",
+          "start": 30.561,
+          "end": 30.671
+        },
+        {
+          "word": "n",
+          "start": 30.671,
+          "end": 30.78
+        },
+        {
+          "word": "!",
+          "start": 30.671,
+          "end": 30.78
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "lineno": 14,
+      "text": "Breathe together, ready, go!",
+      "start": 31.5,
+      "end": 35.28,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "B",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "r",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "e",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "a",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "t",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "h",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "e",
+          "start": 32.2,
+          "end": 32.74
+        },
+        {
+          "word": "t",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "o",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "g",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "e",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "t",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "h",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "e",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "r",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": ",",
+          "start": 32.74,
+          "end": 33.3
+        },
+        {
+          "word": "r",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": "e",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": "a",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": "d",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": "y",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": ",",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": "g",
+          "start": 34.96,
+          "end": 35.28
+        },
+        {
+          "word": "o",
+          "start": 34.96,
+          "end": 35.28
+        },
+        {
+          "word": "!",
+          "start": 34.96,
+          "end": 35.28
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "lineno": 16,
+      "text": "Looky looky looky",
+      "start": 36.4,
+      "end": 38.22,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 36.4,
+          "end": 36.608
+        },
+        {
+          "word": "o",
+          "start": 36.608,
+          "end": 36.816
+        },
+        {
+          "word": "o",
+          "start": 36.816,
+          "end": 37.024
+        },
+        {
+          "word": "k",
+          "start": 37.024,
+          "end": 37.232
+        },
+        {
+          "word": "y",
+          "start": 37.232,
+          "end": 37.44
+        },
+        {
+          "word": "l",
+          "start": 37.44,
+          "end": 37.508
+        },
+        {
+          "word": "o",
+          "start": 37.508,
+          "end": 37.576
+        },
+        {
+          "word": "o",
+          "start": 37.576,
+          "end": 37.644
+        },
+        {
+          "word": "k",
+          "start": 37.644,
+          "end": 37.712
+        },
+        {
+          "word": "y",
+          "start": 37.712,
+          "end": 37.78
+        },
+        {
+          "word": "l",
+          "start": 37.78,
+          "end": 37.868
+        },
+        {
+          "word": "o",
+          "start": 37.868,
+          "end": 37.956
+        },
+        {
+          "word": "o",
+          "start": 37.956,
+          "end": 38.044
+        },
+        {
+          "word": "k",
+          "start": 38.044,
+          "end": 38.132
+        },
+        {
+          "word": "y",
+          "start": 38.132,
+          "end": 38.22
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "lineno": 17,
+      "text": "Looky looky",
+      "start": 38.22,
+      "end": 39.2,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 38.22,
+          "end": 38.36
+        },
+        {
+          "word": "o",
+          "start": 38.36,
+          "end": 38.5
+        },
+        {
+          "word": "o",
+          "start": 38.5,
+          "end": 38.64
+        },
+        {
+          "word": "k",
+          "start": 38.64,
+          "end": 38.78
+        },
+        {
+          "word": "y",
+          "start": 38.78,
+          "end": 38.92
+        },
+        {
+          "word": "l",
+          "start": 38.92,
+          "end": 38.976
+        },
+        {
+          "word": "o",
+          "start": 38.976,
+          "end": 39.032
+        },
+        {
+          "word": "o",
+          "start": 39.032,
+          "end": 39.088
+        },
+        {
+          "word": "k",
+          "start": 39.088,
+          "end": 39.144
+        },
+        {
+          "word": "y",
+          "start": 39.144,
+          "end": 39.2
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "lineno": 18,
+      "text": "Looky looky, watchin’ meerkats!",
+      "start": 39.2,
+      "end": 42.22,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 39.2,
+          "end": 39.44
+        },
+        {
+          "word": "o",
+          "start": 39.44,
+          "end": 39.68
+        },
+        {
+          "word": "o",
+          "start": 39.68,
+          "end": 39.92
+        },
+        {
+          "word": "k",
+          "start": 39.92,
+          "end": 40.16
+        },
+        {
+          "word": "y",
+          "start": 40.16,
+          "end": 40.4
+        },
+        {
+          "word": "l",
+          "start": 40.4,
+          "end": 40.456
+        },
+        {
+          "word": "o",
+          "start": 40.456,
+          "end": 40.512
+        },
+        {
+          "word": "o",
+          "start": 40.512,
+          "end": 40.568
+        },
+        {
+          "word": "k",
+          "start": 40.568,
+          "end": 40.624
+        },
+        {
+          "word": "y",
+          "start": 40.624,
+          "end": 40.68
+        },
+        {
+          "word": ",",
+          "start": 40.624,
+          "end": 40.68
+        },
+        {
+          "word": "w",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "a",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "t",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "c",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "h",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "i",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "n",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "’",
+          "start": 40.68,
+          "end": 41.14
+        },
+        {
+          "word": "m",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "e",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "e",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "r",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "k",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "a",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "t",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "s",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "!",
+          "start": 41.14,
+          "end": 42.22
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "lineno": 20,
+      "text": "Poppin’ up from another hole",
+      "start": 47.3,
+      "end": 50.0,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "P",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "o",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "p",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "p",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "i",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "n",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "’",
+          "start": 47.3,
+          "end": 47.783
+        },
+        {
+          "word": "u",
+          "start": 47.783,
+          "end": 47.913
+        },
+        {
+          "word": "p",
+          "start": 47.913,
+          "end": 48.043
+        },
+        {
+          "word": "f",
+          "start": 48.043,
+          "end": 48.174
+        },
+        {
+          "word": "r",
+          "start": 48.174,
+          "end": 48.304
+        },
+        {
+          "word": "o",
+          "start": 48.304,
+          "end": 48.435
+        },
+        {
+          "word": "m",
+          "start": 48.435,
+          "end": 48.565
+        },
+        {
+          "word": "a",
+          "start": 48.565,
+          "end": 48.696
+        },
+        {
+          "word": "n",
+          "start": 48.696,
+          "end": 48.826
+        },
+        {
+          "word": "o",
+          "start": 48.826,
+          "end": 48.957
+        },
+        {
+          "word": "t",
+          "start": 48.957,
+          "end": 49.087
+        },
+        {
+          "word": "h",
+          "start": 49.087,
+          "end": 49.217
+        },
+        {
+          "word": "e",
+          "start": 49.217,
+          "end": 49.348
+        },
+        {
+          "word": "r",
+          "start": 49.348,
+          "end": 49.478
+        },
+        {
+          "word": "h",
+          "start": 49.478,
+          "end": 49.609
+        },
+        {
+          "word": "o",
+          "start": 49.609,
+          "end": 49.739
+        },
+        {
+          "word": "l",
+          "start": 49.739,
+          "end": 49.87
+        },
+        {
+          "word": "e",
+          "start": 49.87,
+          "end": 50.0
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "lineno": 21,
+      "text": "Now it’s your turn to keep watch",
+      "start": 50.03,
+      "end": 52.97,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "N",
+          "start": 50.03,
+          "end": 50.51
+        },
+        {
+          "word": "o",
+          "start": 50.03,
+          "end": 50.51
+        },
+        {
+          "word": "w",
+          "start": 50.03,
+          "end": 50.51
+        },
+        {
+          "word": "i",
+          "start": 50.51,
+          "end": 50.87
+        },
+        {
+          "word": "t",
+          "start": 50.51,
+          "end": 50.87
+        },
+        {
+          "word": "’",
+          "start": 50.51,
+          "end": 50.87
+        },
+        {
+          "word": "s",
+          "start": 50.51,
+          "end": 50.87
+        },
+        {
+          "word": "y",
+          "start": 50.87,
+          "end": 51.07
+        },
+        {
+          "word": "o",
+          "start": 50.87,
+          "end": 51.07
+        },
+        {
+          "word": "u",
+          "start": 50.87,
+          "end": 51.07
+        },
+        {
+          "word": "r",
+          "start": 50.87,
+          "end": 51.07
+        },
+        {
+          "word": "t",
+          "start": 51.07,
+          "end": 51.63
+        },
+        {
+          "word": "u",
+          "start": 51.07,
+          "end": 51.63
+        },
+        {
+          "word": "r",
+          "start": 51.07,
+          "end": 51.63
+        },
+        {
+          "word": "n",
+          "start": 51.07,
+          "end": 51.63
+        },
+        {
+          "word": "t",
+          "start": 51.63,
+          "end": 52.29
+        },
+        {
+          "word": "o",
+          "start": 51.63,
+          "end": 52.29
+        },
+        {
+          "word": "k",
+          "start": 52.29,
+          "end": 52.55
+        },
+        {
+          "word": "e",
+          "start": 52.29,
+          "end": 52.55
+        },
+        {
+          "word": "e",
+          "start": 52.29,
+          "end": 52.55
+        },
+        {
+          "word": "p",
+          "start": 52.29,
+          "end": 52.55
+        },
+        {
+          "word": "w",
+          "start": 52.55,
+          "end": 52.97
+        },
+        {
+          "word": "a",
+          "start": 52.55,
+          "end": 52.97
+        },
+        {
+          "word": "t",
+          "start": 52.55,
+          "end": 52.97
+        },
+        {
+          "word": "c",
+          "start": 52.55,
+          "end": 52.97
+        },
+        {
+          "word": "h",
+          "start": 52.55,
+          "end": 52.97
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "lineno": 22,
+      "text": "Did you sleep okay last night?",
+      "start": 52.97,
+      "end": 55.91,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "D",
+          "start": 52.97,
+          "end": 53.65
+        },
+        {
+          "word": "i",
+          "start": 52.97,
+          "end": 53.65
+        },
+        {
+          "word": "d",
+          "start": 52.97,
+          "end": 53.65
+        },
+        {
+          "word": "y",
+          "start": 53.65,
+          "end": 53.89
+        },
+        {
+          "word": "o",
+          "start": 53.65,
+          "end": 53.89
+        },
+        {
+          "word": "u",
+          "start": 53.65,
+          "end": 53.89
+        },
+        {
+          "word": "s",
+          "start": 53.89,
+          "end": 54.35
+        },
+        {
+          "word": "l",
+          "start": 53.89,
+          "end": 54.35
+        },
+        {
+          "word": "e",
+          "start": 53.89,
+          "end": 54.35
+        },
+        {
+          "word": "e",
+          "start": 53.89,
+          "end": 54.35
+        },
+        {
+          "word": "p",
+          "start": 53.89,
+          "end": 54.35
+        },
+        {
+          "word": "o",
+          "start": 54.35,
+          "end": 54.85
+        },
+        {
+          "word": "k",
+          "start": 54.35,
+          "end": 54.85
+        },
+        {
+          "word": "a",
+          "start": 54.35,
+          "end": 54.85
+        },
+        {
+          "word": "y",
+          "start": 54.35,
+          "end": 54.85
+        },
+        {
+          "word": "l",
+          "start": 54.85,
+          "end": 55.41
+        },
+        {
+          "word": "a",
+          "start": 54.85,
+          "end": 55.41
+        },
+        {
+          "word": "s",
+          "start": 54.85,
+          "end": 55.41
+        },
+        {
+          "word": "t",
+          "start": 54.85,
+          "end": 55.41
+        },
+        {
+          "word": "n",
+          "start": 55.41,
+          "end": 55.91
+        },
+        {
+          "word": "i",
+          "start": 55.41,
+          "end": 55.91
+        },
+        {
+          "word": "g",
+          "start": 55.41,
+          "end": 55.91
+        },
+        {
+          "word": "h",
+          "start": 55.41,
+          "end": 55.91
+        },
+        {
+          "word": "t",
+          "start": 55.41,
+          "end": 55.91
+        },
+        {
+          "word": "?",
+          "start": 55.41,
+          "end": 55.91
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "lineno": 23,
+      "text": "I’ll get some sun, you take it from here",
+      "start": 56.01,
+      "end": 58.83,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "I",
+          "start": 56.01,
+          "end": 56.25
+        },
+        {
+          "word": "’",
+          "start": 56.01,
+          "end": 56.25
+        },
+        {
+          "word": "l",
+          "start": 56.01,
+          "end": 56.25
+        },
+        {
+          "word": "l",
+          "start": 56.01,
+          "end": 56.25
+        },
+        {
+          "word": "g",
+          "start": 56.25,
+          "end": 56.55
+        },
+        {
+          "word": "e",
+          "start": 56.25,
+          "end": 56.55
+        },
+        {
+          "word": "t",
+          "start": 56.25,
+          "end": 56.55
+        },
+        {
+          "word": "s",
+          "start": 56.55,
+          "end": 56.89
+        },
+        {
+          "word": "o",
+          "start": 56.55,
+          "end": 56.89
+        },
+        {
+          "word": "m",
+          "start": 56.55,
+          "end": 56.89
+        },
+        {
+          "word": "e",
+          "start": 56.55,
+          "end": 56.89
+        },
+        {
+          "word": "s",
+          "start": 56.89,
+          "end": 57.35
+        },
+        {
+          "word": "u",
+          "start": 56.89,
+          "end": 57.35
+        },
+        {
+          "word": "n",
+          "start": 56.89,
+          "end": 57.35
+        },
+        {
+          "word": ",",
+          "start": 56.89,
+          "end": 57.35
+        },
+        {
+          "word": "y",
+          "start": 57.47,
+          "end": 57.61
+        },
+        {
+          "word": "o",
+          "start": 57.47,
+          "end": 57.61
+        },
+        {
+          "word": "u",
+          "start": 57.47,
+          "end": 57.61
+        },
+        {
+          "word": "t",
+          "start": 57.61,
+          "end": 57.81
+        },
+        {
+          "word": "a",
+          "start": 57.61,
+          "end": 57.81
+        },
+        {
+          "word": "k",
+          "start": 57.61,
+          "end": 57.81
+        },
+        {
+          "word": "e",
+          "start": 57.61,
+          "end": 57.81
+        },
+        {
+          "word": "i",
+          "start": 57.81,
+          "end": 58.21
+        },
+        {
+          "word": "t",
+          "start": 57.81,
+          "end": 58.21
+        },
+        {
+          "word": "f",
+          "start": 58.21,
+          "end": 58.39
+        },
+        {
+          "word": "r",
+          "start": 58.21,
+          "end": 58.39
+        },
+        {
+          "word": "o",
+          "start": 58.21,
+          "end": 58.39
+        },
+        {
+          "word": "m",
+          "start": 58.21,
+          "end": 58.39
+        },
+        {
+          "word": "h",
+          "start": 58.39,
+          "end": 58.83
+        },
+        {
+          "word": "e",
+          "start": 58.39,
+          "end": 58.83
+        },
+        {
+          "word": "r",
+          "start": 58.39,
+          "end": 58.83
+        },
+        {
+          "word": "e",
+          "start": 58.39,
+          "end": 58.83
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "lineno": 25,
+      "text": "Front! Back! Not clear?!",
+      "start": 58.83,
+      "end": 60.79,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "F",
+          "start": 58.83,
+          "end": 59.47
+        },
+        {
+          "word": "r",
+          "start": 58.83,
+          "end": 59.47
+        },
+        {
+          "word": "o",
+          "start": 58.83,
+          "end": 59.47
+        },
+        {
+          "word": "n",
+          "start": 58.83,
+          "end": 59.47
+        },
+        {
+          "word": "t",
+          "start": 58.83,
+          "end": 59.47
+        },
+        {
+          "word": "!",
+          "start": 58.83,
+          "end": 59.47
+        },
+        {
+          "word": "B",
+          "start": 59.63,
+          "end": 60.07
+        },
+        {
+          "word": "a",
+          "start": 59.63,
+          "end": 60.07
+        },
+        {
+          "word": "c",
+          "start": 59.63,
+          "end": 60.07
+        },
+        {
+          "word": "k",
+          "start": 59.63,
+          "end": 60.07
+        },
+        {
+          "word": "!",
+          "start": 59.63,
+          "end": 60.07
+        },
+        {
+          "word": "N",
+          "start": 60.13,
+          "end": 60.35
+        },
+        {
+          "word": "o",
+          "start": 60.13,
+          "end": 60.35
+        },
+        {
+          "word": "t",
+          "start": 60.13,
+          "end": 60.35
+        },
+        {
+          "word": "c",
+          "start": 60.35,
+          "end": 60.79
+        },
+        {
+          "word": "l",
+          "start": 60.35,
+          "end": 60.79
+        },
+        {
+          "word": "e",
+          "start": 60.35,
+          "end": 60.79
+        },
+        {
+          "word": "a",
+          "start": 60.35,
+          "end": 60.79
+        },
+        {
+          "word": "r",
+          "start": 60.35,
+          "end": 60.79
+        },
+        {
+          "word": "?",
+          "start": 60.35,
+          "end": 60.79
+        },
+        {
+          "word": "!",
+          "start": 60.35,
+          "end": 60.79
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "lineno": 26,
+      "text": "There might be danger here!",
+      "start": 60.79,
+      "end": 62.27,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "T",
+          "start": 60.79,
+          "end": 61.23
+        },
+        {
+          "word": "h",
+          "start": 60.79,
+          "end": 61.23
+        },
+        {
+          "word": "e",
+          "start": 60.79,
+          "end": 61.23
+        },
+        {
+          "word": "r",
+          "start": 60.79,
+          "end": 61.23
+        },
+        {
+          "word": "e",
+          "start": 60.79,
+          "end": 61.23
+        },
+        {
+          "word": "m",
+          "start": 61.23,
+          "end": 61.45
+        },
+        {
+          "word": "i",
+          "start": 61.23,
+          "end": 61.45
+        },
+        {
+          "word": "g",
+          "start": 61.23,
+          "end": 61.45
+        },
+        {
+          "word": "h",
+          "start": 61.23,
+          "end": 61.45
+        },
+        {
+          "word": "t",
+          "start": 61.23,
+          "end": 61.45
+        },
+        {
+          "word": "b",
+          "start": 61.45,
+          "end": 61.67
+        },
+        {
+          "word": "e",
+          "start": 61.45,
+          "end": 61.67
+        },
+        {
+          "word": "d",
+          "start": 61.67,
+          "end": 61.93
+        },
+        {
+          "word": "a",
+          "start": 61.67,
+          "end": 61.93
+        },
+        {
+          "word": "n",
+          "start": 61.67,
+          "end": 61.93
+        },
+        {
+          "word": "g",
+          "start": 61.67,
+          "end": 61.93
+        },
+        {
+          "word": "e",
+          "start": 61.67,
+          "end": 61.93
+        },
+        {
+          "word": "r",
+          "start": 61.67,
+          "end": 61.93
+        },
+        {
+          "word": "h",
+          "start": 61.93,
+          "end": 62.27
+        },
+        {
+          "word": "e",
+          "start": 61.93,
+          "end": 62.27
+        },
+        {
+          "word": "r",
+          "start": 61.93,
+          "end": 62.27
+        },
+        {
+          "word": "e",
+          "start": 61.93,
+          "end": 62.27
+        },
+        {
+          "word": "!",
+          "start": 61.93,
+          "end": 62.27
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "lineno": 27,
+      "text": "But we’re ready, just in case",
+      "start": 62.27,
+      "end": 64.65,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "B",
+          "start": 62.27,
+          "end": 62.75
+        },
+        {
+          "word": "u",
+          "start": 62.27,
+          "end": 62.75
+        },
+        {
+          "word": "t",
+          "start": 62.27,
+          "end": 62.75
+        },
+        {
+          "word": "w",
+          "start": 62.75,
+          "end": 62.95
+        },
+        {
+          "word": "e",
+          "start": 62.75,
+          "end": 62.95
+        },
+        {
+          "word": "’",
+          "start": 62.75,
+          "end": 62.95
+        },
+        {
+          "word": "r",
+          "start": 62.75,
+          "end": 62.95
+        },
+        {
+          "word": "e",
+          "start": 62.75,
+          "end": 62.95
+        },
+        {
+          "word": "r",
+          "start": 62.95,
+          "end": 63.41
+        },
+        {
+          "word": "e",
+          "start": 62.95,
+          "end": 63.41
+        },
+        {
+          "word": "a",
+          "start": 62.95,
+          "end": 63.41
+        },
+        {
+          "word": "d",
+          "start": 62.95,
+          "end": 63.41
+        },
+        {
+          "word": "y",
+          "start": 62.95,
+          "end": 63.41
+        },
+        {
+          "word": ",",
+          "start": 62.95,
+          "end": 63.41
+        },
+        {
+          "word": "j",
+          "start": 63.41,
+          "end": 63.93
+        },
+        {
+          "word": "u",
+          "start": 63.41,
+          "end": 63.93
+        },
+        {
+          "word": "s",
+          "start": 63.41,
+          "end": 63.93
+        },
+        {
+          "word": "t",
+          "start": 63.41,
+          "end": 63.93
+        },
+        {
+          "word": "i",
+          "start": 63.93,
+          "end": 64.23
+        },
+        {
+          "word": "n",
+          "start": 63.93,
+          "end": 64.23
+        },
+        {
+          "word": "c",
+          "start": 64.23,
+          "end": 64.65
+        },
+        {
+          "word": "a",
+          "start": 64.23,
+          "end": 64.65
+        },
+        {
+          "word": "s",
+          "start": 64.23,
+          "end": 64.65
+        },
+        {
+          "word": "e",
+          "start": 64.23,
+          "end": 64.65
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "lineno": 28,
+      "text": "Everybody, come on!",
+      "start": 64.65,
+      "end": 66.29,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "E",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "v",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "e",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "r",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "y",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "b",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "o",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "d",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "y",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": ",",
+          "start": 64.65,
+          "end": 65.13
+        },
+        {
+          "word": "c",
+          "start": 65.13,
+          "end": 65.87
+        },
+        {
+          "word": "o",
+          "start": 65.13,
+          "end": 65.87
+        },
+        {
+          "word": "m",
+          "start": 65.13,
+          "end": 65.87
+        },
+        {
+          "word": "e",
+          "start": 65.13,
+          "end": 65.87
+        },
+        {
+          "word": "o",
+          "start": 65.87,
+          "end": 66.29
+        },
+        {
+          "word": "n",
+          "start": 65.87,
+          "end": 66.29
+        },
+        {
+          "word": "!",
+          "start": 65.87,
+          "end": 66.29
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "lineno": 29,
+      "text": "Quietly hide away...",
+      "start": 67.21,
+      "end": 68.95,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "Q",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "u",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "i",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "e",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "t",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "l",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "y",
+          "start": 67.21,
+          "end": 68.07
+        },
+        {
+          "word": "h",
+          "start": 68.07,
+          "end": 68.51
+        },
+        {
+          "word": "i",
+          "start": 68.07,
+          "end": 68.51
+        },
+        {
+          "word": "d",
+          "start": 68.07,
+          "end": 68.51
+        },
+        {
+          "word": "e",
+          "start": 68.07,
+          "end": 68.51
+        },
+        {
+          "word": "a",
+          "start": 68.51,
+          "end": 68.95
+        },
+        {
+          "word": "w",
+          "start": 68.51,
+          "end": 68.95
+        },
+        {
+          "word": "a",
+          "start": 68.51,
+          "end": 68.95
+        },
+        {
+          "word": "y",
+          "start": 68.51,
+          "end": 68.95
+        },
+        {
+          "word": ".",
+          "start": 68.51,
+          "end": 68.95
+        },
+        {
+          "word": ".",
+          "start": 68.51,
+          "end": 68.95
+        },
+        {
+          "word": ".",
+          "start": 68.51,
+          "end": 68.95
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "lineno": 31,
+      "text": "Ready... go...",
+      "start": 69.85,
+      "end": 71.29,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "R",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": "e",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": "a",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": "d",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": "y",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": ".",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": ".",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": ".",
+          "start": 69.85,
+          "end": 70.71
+        },
+        {
+          "word": "g",
+          "start": 70.87,
+          "end": 71.29
+        },
+        {
+          "word": "o",
+          "start": 70.87,
+          "end": 71.29
+        },
+        {
+          "word": ".",
+          "start": 70.87,
+          "end": 71.29
+        },
+        {
+          "word": ".",
+          "start": 70.87,
+          "end": 71.29
+        },
+        {
+          "word": ".",
+          "start": 70.87,
+          "end": 71.29
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "lineno": 33,
+      "text": "Looky looky looky...",
+      "start": 71.45,
+      "end": 73.27,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 71.45,
+          "end": 72.49
+        },
+        {
+          "word": "o",
+          "start": 71.45,
+          "end": 72.49
+        },
+        {
+          "word": "o",
+          "start": 71.45,
+          "end": 72.49
+        },
+        {
+          "word": "k",
+          "start": 71.45,
+          "end": 72.49
+        },
+        {
+          "word": "y",
+          "start": 71.45,
+          "end": 72.05
+        },
+        {
+          "word": "l",
+          "start": 72.49,
+          "end": 72.83
+        },
+        {
+          "word": "o",
+          "start": 72.49,
+          "end": 72.83
+        },
+        {
+          "word": "o",
+          "start": 72.49,
+          "end": 72.83
+        },
+        {
+          "word": "k",
+          "start": 72.49,
+          "end": 72.83
+        },
+        {
+          "word": "y",
+          "start": 72.49,
+          "end": 72.83
+        },
+        {
+          "word": "l",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": "o",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": "o",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": "k",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": "y",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": ".",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": ".",
+          "start": 72.83,
+          "end": 73.27
+        },
+        {
+          "word": ".",
+          "start": 72.83,
+          "end": 73.27
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "lineno": 34,
+      "text": "Looky looky...",
+      "start": 73.27,
+      "end": 74.25,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 73.27,
+          "end": 73.97
+        },
+        {
+          "word": "o",
+          "start": 73.27,
+          "end": 73.97
+        },
+        {
+          "word": "o",
+          "start": 73.27,
+          "end": 73.97
+        },
+        {
+          "word": "k",
+          "start": 73.27,
+          "end": 73.97
+        },
+        {
+          "word": "y",
+          "start": 73.27,
+          "end": 73.87
+        },
+        {
+          "word": "l",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": "o",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": "o",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": "k",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": "y",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": ".",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": ".",
+          "start": 73.97,
+          "end": 74.25
+        },
+        {
+          "word": ".",
+          "start": 73.97,
+          "end": 74.25
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "lineno": 35,
+      "text": "Looky looky, poppin’ meerkats...",
+      "start": 74.25,
+      "end": 77.29,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 74.25,
+          "end": 75.43
+        },
+        {
+          "word": "o",
+          "start": 74.25,
+          "end": 75.43
+        },
+        {
+          "word": "o",
+          "start": 74.25,
+          "end": 75.43
+        },
+        {
+          "word": "k",
+          "start": 74.25,
+          "end": 75.43
+        },
+        {
+          "word": "y",
+          "start": 74.25,
+          "end": 74.85
+        },
+        {
+          "word": "l",
+          "start": 75.45,
+          "end": 75.69
+        },
+        {
+          "word": "o",
+          "start": 75.45,
+          "end": 75.69
+        },
+        {
+          "word": "o",
+          "start": 75.45,
+          "end": 75.69
+        },
+        {
+          "word": "k",
+          "start": 75.45,
+          "end": 75.69
+        },
+        {
+          "word": "y",
+          "start": 75.45,
+          "end": 75.69
+        },
+        {
+          "word": ",",
+          "start": 75.45,
+          "end": 75.69
+        },
+        {
+          "word": "p",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "o",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "p",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "p",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "i",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "n",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "’",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "m",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "e",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "e",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "r",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "k",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "a",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "t",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": "s",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": ".",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": ".",
+          "start": 76.21,
+          "end": 77.29
+        },
+        {
+          "word": ".",
+          "start": 76.21,
+          "end": 77.29
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "lineno": 37,
+      "text": "Looky looky looky",
+      "start": 95.0,
+      "end": 96.82,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 95.0,
+          "end": 95.208
+        },
+        {
+          "word": "o",
+          "start": 95.208,
+          "end": 95.416
+        },
+        {
+          "word": "o",
+          "start": 95.416,
+          "end": 95.624
+        },
+        {
+          "word": "k",
+          "start": 95.624,
+          "end": 95.832
+        },
+        {
+          "word": "y",
+          "start": 95.832,
+          "end": 96.04
+        },
+        {
+          "word": "l",
+          "start": 96.04,
+          "end": 96.108
+        },
+        {
+          "word": "o",
+          "start": 96.108,
+          "end": 96.176
+        },
+        {
+          "word": "o",
+          "start": 96.176,
+          "end": 96.244
+        },
+        {
+          "word": "k",
+          "start": 96.244,
+          "end": 96.312
+        },
+        {
+          "word": "y",
+          "start": 96.312,
+          "end": 96.38
+        },
+        {
+          "word": "l",
+          "start": 96.38,
+          "end": 96.468
+        },
+        {
+          "word": "o",
+          "start": 96.468,
+          "end": 96.556
+        },
+        {
+          "word": "o",
+          "start": 96.556,
+          "end": 96.644
+        },
+        {
+          "word": "k",
+          "start": 96.644,
+          "end": 96.732
+        },
+        {
+          "word": "y",
+          "start": 96.732,
+          "end": 96.82
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "lineno": 38,
+      "text": "Looky looky",
+      "start": 96.82,
+      "end": 97.8,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 96.82,
+          "end": 96.96
+        },
+        {
+          "word": "o",
+          "start": 96.96,
+          "end": 97.1
+        },
+        {
+          "word": "o",
+          "start": 97.1,
+          "end": 97.24
+        },
+        {
+          "word": "k",
+          "start": 97.24,
+          "end": 97.38
+        },
+        {
+          "word": "y",
+          "start": 97.38,
+          "end": 97.52
+        },
+        {
+          "word": "l",
+          "start": 97.52,
+          "end": 97.576
+        },
+        {
+          "word": "o",
+          "start": 97.576,
+          "end": 97.632
+        },
+        {
+          "word": "o",
+          "start": 97.632,
+          "end": 97.688
+        },
+        {
+          "word": "k",
+          "start": 97.688,
+          "end": 97.744
+        },
+        {
+          "word": "y",
+          "start": 97.744,
+          "end": 97.8
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "lineno": 39,
+      "text": "Looky looky, watchin’ meerkats!",
+      "start": 97.8,
+      "end": 100.64,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "L",
+          "start": 97.8,
+          "end": 97.998
+        },
+        {
+          "word": "o",
+          "start": 97.998,
+          "end": 98.196
+        },
+        {
+          "word": "o",
+          "start": 98.196,
+          "end": 98.393
+        },
+        {
+          "word": "k",
+          "start": 98.393,
+          "end": 98.591
+        },
+        {
+          "word": "y",
+          "start": 98.591,
+          "end": 98.789
+        },
+        {
+          "word": "l",
+          "start": 98.789,
+          "end": 98.835
+        },
+        {
+          "word": "o",
+          "start": 98.835,
+          "end": 98.881
+        },
+        {
+          "word": "o",
+          "start": 98.881,
+          "end": 98.928
+        },
+        {
+          "word": "k",
+          "start": 98.928,
+          "end": 98.974
+        },
+        {
+          "word": "y",
+          "start": 98.974,
+          "end": 99.02
+        },
+        {
+          "word": ",",
+          "start": 98.974,
+          "end": 99.02
+        },
+        {
+          "word": "w",
+          "start": 99.02,
+          "end": 99.128
+        },
+        {
+          "word": "a",
+          "start": 99.128,
+          "end": 99.236
+        },
+        {
+          "word": "t",
+          "start": 99.236,
+          "end": 99.344
+        },
+        {
+          "word": "c",
+          "start": 99.344,
+          "end": 99.452
+        },
+        {
+          "word": "h",
+          "start": 99.452,
+          "end": 99.56
+        },
+        {
+          "word": "i",
+          "start": 99.56,
+          "end": 99.668
+        },
+        {
+          "word": "n",
+          "start": 99.668,
+          "end": 99.776
+        },
+        {
+          "word": "’",
+          "start": 99.668,
+          "end": 99.776
+        },
+        {
+          "word": "m",
+          "start": 99.776,
+          "end": 99.884
+        },
+        {
+          "word": "e",
+          "start": 99.884,
+          "end": 99.992
+        },
+        {
+          "word": "e",
+          "start": 99.992,
+          "end": 100.1
+        },
+        {
+          "word": "r",
+          "start": 100.1,
+          "end": 100.208
+        },
+        {
+          "word": "k",
+          "start": 100.208,
+          "end": 100.316
+        },
+        {
+          "word": "a",
+          "start": 100.316,
+          "end": 100.424
+        },
+        {
+          "word": "t",
+          "start": 100.424,
+          "end": 100.532
+        },
+        {
+          "word": "s",
+          "start": 100.532,
+          "end": 100.64
+        },
+        {
+          "word": "!",
+          "start": 100.532,
+          "end": 100.64
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "lineno": 41,
+      "text": "Whatever danger comes our way",
+      "start": 100.64,
+      "end": 102.76,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "W",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "h",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "a",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "t",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "e",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "v",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "e",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "r",
+          "start": 100.64,
+          "end": 101.3
+        },
+        {
+          "word": "d",
+          "start": 101.3,
+          "end": 101.8
+        },
+        {
+          "word": "a",
+          "start": 101.3,
+          "end": 101.8
+        },
+        {
+          "word": "n",
+          "start": 101.3,
+          "end": 101.8
+        },
+        {
+          "word": "g",
+          "start": 101.3,
+          "end": 101.8
+        },
+        {
+          "word": "e",
+          "start": 101.3,
+          "end": 101.8
+        },
+        {
+          "word": "r",
+          "start": 101.3,
+          "end": 101.8
+        },
+        {
+          "word": "c",
+          "start": 101.8,
+          "end": 102.08
+        },
+        {
+          "word": "o",
+          "start": 101.8,
+          "end": 102.08
+        },
+        {
+          "word": "m",
+          "start": 101.8,
+          "end": 102.08
+        },
+        {
+          "word": "e",
+          "start": 101.8,
+          "end": 102.08
+        },
+        {
+          "word": "s",
+          "start": 101.8,
+          "end": 102.08
+        },
+        {
+          "word": "o",
+          "start": 102.08,
+          "end": 102.34
+        },
+        {
+          "word": "u",
+          "start": 102.08,
+          "end": 102.34
+        },
+        {
+          "word": "r",
+          "start": 102.08,
+          "end": 102.34
+        },
+        {
+          "word": "w",
+          "start": 102.34,
+          "end": 102.76
+        },
+        {
+          "word": "a",
+          "start": 102.34,
+          "end": 102.76
+        },
+        {
+          "word": "y",
+          "start": 102.34,
+          "end": 102.76
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "lineno": 42,
+      "text": "Together, we are not afraid",
+      "start": 103.4,
+      "end": 104.78,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "T",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "o",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "g",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "e",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "t",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "h",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "e",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "r",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": ",",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "w",
+          "start": 103.82,
+          "end": 104.28
+        },
+        {
+          "word": "e",
+          "start": 103.82,
+          "end": 104.28
+        },
+        {
+          "word": "a",
+          "start": 104.28,
+          "end": 104.76
+        },
+        {
+          "word": "r",
+          "start": 104.28,
+          "end": 104.76
+        },
+        {
+          "word": "e",
+          "start": 104.28,
+          "end": 104.76
+        },
+        {
+          "word": "n",
+          "start": 104.76,
+          "end": 105.26
+        },
+        {
+          "word": "o",
+          "start": 104.76,
+          "end": 105.26
+        },
+        {
+          "word": "t",
+          "start": 104.78,
+          "end": 105.26
+        },
+        {
+          "word": "a",
+          "start": 105.26,
+          "end": 105.78
+        },
+        {
+          "word": "f",
+          "start": 105.26,
+          "end": 105.78
+        },
+        {
+          "word": "r",
+          "start": 105.26,
+          "end": 105.78
+        },
+        {
+          "word": "a",
+          "start": 105.26,
+          "end": 105.78
+        },
+        {
+          "word": "i",
+          "start": 105.26,
+          "end": 105.78
+        },
+        {
+          "word": "d",
+          "start": 105.26,
+          "end": 105.78
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "lineno": 43,
+      "text": "Even when our necks get tired",
+      "start": 106.8,
+      "end": 108.85,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "E",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "v",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "e",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "n",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "w",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "h",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "e",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "n",
+          "start": 106.8,
+          "end": 107.3
+        },
+        {
+          "word": "o",
+          "start": 107.37,
+          "end": 107.63
+        },
+        {
+          "word": "u",
+          "start": 107.37,
+          "end": 107.63
+        },
+        {
+          "word": "r",
+          "start": 107.37,
+          "end": 107.63
+        },
+        {
+          "word": "n",
+          "start": 107.63,
+          "end": 108.11
+        },
+        {
+          "word": "e",
+          "start": 107.63,
+          "end": 108.11
+        },
+        {
+          "word": "c",
+          "start": 107.63,
+          "end": 108.11
+        },
+        {
+          "word": "k",
+          "start": 107.63,
+          "end": 108.11
+        },
+        {
+          "word": "s",
+          "start": 107.63,
+          "end": 108.11
+        },
+        {
+          "word": "g",
+          "start": 108.11,
+          "end": 108.29
+        },
+        {
+          "word": "e",
+          "start": 108.11,
+          "end": 108.29
+        },
+        {
+          "word": "t",
+          "start": 108.11,
+          "end": 108.29
+        },
+        {
+          "word": "t",
+          "start": 108.29,
+          "end": 108.85
+        },
+        {
+          "word": "i",
+          "start": 108.29,
+          "end": 108.85
+        },
+        {
+          "word": "r",
+          "start": 108.29,
+          "end": 108.85
+        },
+        {
+          "word": "e",
+          "start": 108.29,
+          "end": 108.85
+        },
+        {
+          "word": "d",
+          "start": 108.29,
+          "end": 108.85
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "lineno": 44,
+      "text": "We look around for everyone",
+      "start": 109.05,
+      "end": 113.45,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "W",
+          "start": 109.05,
+          "end": 109.17
+        },
+        {
+          "word": "e",
+          "start": 109.05,
+          "end": 109.17
+        },
+        {
+          "word": "l",
+          "start": 109.53,
+          "end": 109.65
+        },
+        {
+          "word": "o",
+          "start": 109.53,
+          "end": 109.65
+        },
+        {
+          "word": "o",
+          "start": 109.53,
+          "end": 109.65
+        },
+        {
+          "word": "k",
+          "start": 109.53,
+          "end": 109.65
+        },
+        {
+          "word": "a",
+          "start": 109.79,
+          "end": 109.91
+        },
+        {
+          "word": "r",
+          "start": 109.79,
+          "end": 109.91
+        },
+        {
+          "word": "o",
+          "start": 109.79,
+          "end": 109.91
+        },
+        {
+          "word": "u",
+          "start": 109.79,
+          "end": 109.91
+        },
+        {
+          "word": "n",
+          "start": 109.79,
+          "end": 109.91
+        },
+        {
+          "word": "d",
+          "start": 109.79,
+          "end": 109.91
+        },
+        {
+          "word": "f",
+          "start": 110.09,
+          "end": 110.21
+        },
+        {
+          "word": "o",
+          "start": 110.09,
+          "end": 110.21
+        },
+        {
+          "word": "r",
+          "start": 110.09,
+          "end": 110.21
+        },
+        {
+          "word": "e",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "v",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "e",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "r",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "y",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "o",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "n",
+          "start": 110.908,
+          "end": 111.228
+        },
+        {
+          "word": "e",
+          "start": 110.908,
+          "end": 111.228
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "lineno": 46,
+      "text": "But just a little...",
+      "start": 113.6,
+      "end": 117.417,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "B",
+          "start": 113.873,
+          "end": 114.146
+        },
+        {
+          "word": "u",
+          "start": 113.873,
+          "end": 114.146
+        },
+        {
+          "word": "t",
+          "start": 113.873,
+          "end": 114.146
+        },
+        {
+          "word": "j",
+          "start": 114.418,
+          "end": 114.691
+        },
+        {
+          "word": "u",
+          "start": 114.418,
+          "end": 114.691
+        },
+        {
+          "word": "s",
+          "start": 114.418,
+          "end": 114.691
+        },
+        {
+          "word": "t",
+          "start": 114.418,
+          "end": 114.691
+        },
+        {
+          "word": "a",
+          "start": 114.418,
+          "end": 114.691
+        },
+        {
+          "word": "l",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": "i",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": "t",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": "t",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": "l",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": "e",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": ".",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": ".",
+          "start": 115.381,
+          "end": 115.654
+        },
+        {
+          "word": ".",
+          "start": 115.381,
+          "end": 115.654
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "lineno": 47,
+      "text": "My neck is stiff...",
+      "start": 117.417,
+      "end": 119.352,
+      "interpolated": false,
+      "words": [
+        {
+          "word": "M",
+          "start": 117.417,
+          "end": 117.689
+        },
+        {
+          "word": "y",
+          "start": 117.417,
+          "end": 117.689
+        },
+        {
+          "word": "n",
+          "start": 117.962,
+          "end": 118.234
+        },
+        {
+          "word": "e",
+          "start": 117.962,
+          "end": 118.234
+        },
+        {
+          "word": "c",
+          "start": 117.962,
+          "end": 118.234
+        },
+        {
+          "word": "k",
+          "start": 117.962,
+          "end": 118.234
+        },
+        {
+          "word": "i",
+          "start": 118.232,
+          "end": 118.752
+        },
+        {
+          "word": "s",
+          "start": 118.232,
+          "end": 118.752
+        },
+        {
+          "word": "s",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": "t",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": "i",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": "f",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": "f",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": ".",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": ".",
+          "start": 118.732,
+          "end": 119.052
+        },
+        {
+          "word": ".",
+          "start": 118.732,
+          "end": 119.052
+        }
+      ]
+    }
+  ]
+}

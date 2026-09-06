@@ -1,0 +1,69 @@
+@startuml architecture
+' ---------------------------------------------------------------------------
+' README の「全体像」に貼る依存関係の図。
+' 説明は README 本文に書くので、ここはフォルダ名と矢印だけに留める。
+'
+' 画像の再生成（Java と plantuml.jar が要る。jar は plantuml.com から落として
+' リポジトリの外に置く）:
+'   java -jar <path>/plantuml.jar -charset UTF-8 -tpng -Sdpi=192 -o ".." docs/readme/uml/architecture.puml
+' ---------------------------------------------------------------------------
+
+skinparam defaultFontName Meiryo
+skinparam defaultFontSize 14
+skinparam shadowing false
+skinparam roundcorner 8
+skinparam backgroundColor #FFFFFF
+skinparam ArrowColor #7B8794
+skinparam nodesep 12
+skinparam ranksep 22
+
+skinparam rectangle {
+  BorderColor #9AA5B1
+  BackgroundColor #FFFFFF
+  FontColor #1F2933
+}
+skinparam package {
+  BorderColor #52606D
+  BackgroundColor #F5F7FA
+  FontColor #1F2933
+  FontStyle bold
+}
+
+rectangle "Root.tsx" as ENTRY #EAF3FB
+
+package "src/videos/<Name>/" as MV {
+  rectangle "compositions" as MV1
+  rectangle "sections" as MV2
+  rectangle "components" as MV3
+  rectangle "data · settings" as MV4 #FAFAFA
+}
+
+package "src/lib/" as LIB {
+  rectangle "components" as LIB1
+  rectangle "effects" as LIB2
+  rectangle "units" as LIB3
+  LIB1 -[hidden]right- LIB2
+  LIB2 -[hidden]right- LIB3
+}
+
+rectangle "public/assets" as ASSETS #FAFAFA
+rectangle "tests" as TESTS #F3F0FA
+rectangle "stories" as STORIES #F3F0FA
+
+ENTRY --> MV1
+MV1 --> MV2
+MV1 --> MV3
+MV2 --> MV3
+
+MV1 ..> MV4
+MV2 ..> MV4
+MV3 ..> MV4
+MV4 ..> ASSETS
+
+MV -[#2C5282,thickness=4]-> LIB
+
+TESTS --> MV
+TESTS --> LIB
+STORIES --> LIB
+
+@enduml
