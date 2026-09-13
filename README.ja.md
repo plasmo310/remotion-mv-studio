@@ -4,6 +4,8 @@
 **1 リポジトリに複数の MV を並べる**構成で、MV 1 本分を `src/videos/<Name>/` に作成する。  
 汎用的な部品はエンジン（`src/lib/`）にまとめ、は全 MV で共有する。
 
+**解説記事：** [【Remotion】AIと協業できるコードベースのMV制作環境をつくる](https://elekibear.com/post/20260912_01_remotion_mv_studio)
+
 ## 動作環境
 
 |         | バージョン                       | 備考                                                    |
