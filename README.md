@@ -6,7 +6,7 @@ A music video production environment built with [Remotion](https://www.remotion.
 **Multiple music videos live side by side in a single repository**, with one video contained entirely in `src/videos/<Name>/`.  
 Reusable parts are collected in the shared engine (`src/lib/`) and used by every video.
 
-**Article:** [[Remotion] Building a Code-Based Music Video Studio That Works with AI | Elekibear Spark](https://elekibear.com/en/post/20260912_01_remotion_mv_studio)
+**Article:** [[Remotion] Building a Code-Based Music Video Studio That Works with AI](https://elekibear.com/en/post/20260912_01_remotion_mv_studio)
 
 ## Requirements
 
